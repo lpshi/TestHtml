@@ -1,0 +1,195 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,jipuche_huoli_2_png,jipuche_huoli_1_png,car_1_png,car_2_png,car_3_png,car_4_png,wheel_1_png,wheel_2_png,wheel_3_png,wheel_4_png,car_wheel_1_png,car_wheel_2_png,car_wheel_3_png,car_wheel_4_png,bg_1_png,common_zidan_1_png,mztx_3_png,mztx_1_png,mztx_2_png,Riders01_png,1_png,car_dead_7_png,car_dead_1_png,car_dead_2_png,car_dead_3_png,car_dead_4_png,car_dead_5_png,car_dead_6_png,unit_dead_1_png,unit_dead_2_png,unit_dead_3_png,unit_dead_4_png,unit_dead_5_png,unit_dead_6_png,jinDuTiao_2_png,jinDuTiao_1_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "jipuche_huoli_2_png",
+			"type": "image",
+			"url": "assets/jipuche_huoli_2.png"
+		},
+		{
+			"name": "jipuche_huoli_1_png",
+			"type": "image",
+			"url": "assets/jipuche_huoli_1.png"
+		},
+		{
+			"name": "car_1_png",
+			"type": "image",
+			"url": "assets/car_1.png"
+		},
+		{
+			"name": "car_2_png",
+			"type": "image",
+			"url": "assets/car_2.png"
+		},
+		{
+			"name": "car_3_png",
+			"type": "image",
+			"url": "assets/car_3.png"
+		},
+		{
+			"name": "car_4_png",
+			"type": "image",
+			"url": "assets/car_4.png"
+		},
+		{
+			"name": "wheel_1_png",
+			"type": "image",
+			"url": "assets/wheel_1.png"
+		},
+		{
+			"name": "wheel_2_png",
+			"type": "image",
+			"url": "assets/wheel_2.png"
+		},
+		{
+			"name": "wheel_3_png",
+			"type": "image",
+			"url": "assets/wheel_3.png"
+		},
+		{
+			"name": "wheel_4_png",
+			"type": "image",
+			"url": "assets/wheel_4.png"
+		},
+		{
+			"name": "car_wheel_1_png",
+			"type": "image",
+			"url": "assets/car_wheel_1.png"
+		},
+		{
+			"name": "car_wheel_2_png",
+			"type": "image",
+			"url": "assets/car_wheel_2.png"
+		},
+		{
+			"name": "car_wheel_3_png",
+			"type": "image",
+			"url": "assets/car_wheel_3.png"
+		},
+		{
+			"name": "car_wheel_4_png",
+			"type": "image",
+			"url": "assets/car_wheel_4.png"
+		},
+		{
+			"name": "bg_1_png",
+			"type": "image",
+			"url": "assets/bg_1.png"
+		},
+		{
+			"name": "common_zidan_1_png",
+			"type": "image",
+			"url": "assets/common_zidan_1.png"
+		},
+		{
+			"name": "mztx_3_png",
+			"type": "image",
+			"url": "assets/mztx_3.png"
+		},
+		{
+			"name": "mztx_1_png",
+			"type": "image",
+			"url": "assets/mztx_1.png"
+		},
+		{
+			"name": "mztx_2_png",
+			"type": "image",
+			"url": "assets/mztx_2.png"
+		},
+		{
+			"name": "Riders01_png",
+			"type": "image",
+			"url": "assets/Riders01.png"
+		},
+		{
+			"name": "1_png",
+			"type": "image",
+			"url": "assets/1.png"
+		},
+		{
+			"name": "car_dead_7_png",
+			"type": "image",
+			"url": "assets/deadani/car_dead_7.png"
+		},
+		{
+			"name": "car_dead_1_png",
+			"type": "image",
+			"url": "assets/deadani/car_dead_1.png"
+		},
+		{
+			"name": "car_dead_2_png",
+			"type": "image",
+			"url": "assets/deadani/car_dead_2.png"
+		},
+		{
+			"name": "car_dead_3_png",
+			"type": "image",
+			"url": "assets/deadani/car_dead_3.png"
+		},
+		{
+			"name": "car_dead_4_png",
+			"type": "image",
+			"url": "assets/deadani/car_dead_4.png"
+		},
+		{
+			"name": "car_dead_5_png",
+			"type": "image",
+			"url": "assets/deadani/car_dead_5.png"
+		},
+		{
+			"name": "car_dead_6_png",
+			"type": "image",
+			"url": "assets/deadani/car_dead_6.png"
+		},
+		{
+			"name": "unit_dead_1_png",
+			"type": "image",
+			"url": "assets/deadani/unit_dead_1.png"
+		},
+		{
+			"name": "unit_dead_2_png",
+			"type": "image",
+			"url": "assets/deadani/unit_dead_2.png"
+		},
+		{
+			"name": "unit_dead_3_png",
+			"type": "image",
+			"url": "assets/deadani/unit_dead_3.png"
+		},
+		{
+			"name": "unit_dead_4_png",
+			"type": "image",
+			"url": "assets/deadani/unit_dead_4.png"
+		},
+		{
+			"name": "unit_dead_5_png",
+			"type": "image",
+			"url": "assets/deadani/unit_dead_5.png"
+		},
+		{
+			"name": "unit_dead_6_png",
+			"type": "image",
+			"url": "assets/deadani/unit_dead_6.png"
+		},
+		{
+			"name": "jinDuTiao_2_png",
+			"type": "image",
+			"url": "assets/jinDuTiao_2.png"
+		},
+		{
+			"name": "jinDuTiao_1_png",
+			"type": "image",
+			"url": "assets/jinDuTiao_1.png"
+		}
+	]
+}

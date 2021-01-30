@@ -1,0 +1,10 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/battle/BattleSkin.exml",
+		"resource/eui_skins/battle/UnitSkin.exml",
+		"resource/eui_skins/start/StartSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}
